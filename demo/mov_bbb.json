@@ -1,0 +1,7 @@
+[
+	{"time":0,"action":"pause"},
+	{"time":2,"action":"loop"},
+	{"time":4,"action":"pause"},
+	{"time":6,"action":"pause"},
+	{"time":8,"action":"pause"}
+]
